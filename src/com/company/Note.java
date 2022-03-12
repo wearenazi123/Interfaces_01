@@ -1,4 +1,5 @@
 package com.company;
 
-public class Note {
+public enum Note {
+    MIDDL_C;
 }
